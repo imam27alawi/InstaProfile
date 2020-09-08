@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">Instagram Profile</string>
+    <string name="itemSearch">Search</string>
+    <string name="itemFavorite">Favorite</string>
+    <string name="itemPost">Posts</string>
+    <string name="itemFollowers">Followers</string>
+    <string name="itemFollowing">Following</string>
+    <string name="add_favorite">Add Favorite</string>
+    <string name="insert_username">Insert Username</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titleUsername">username</string>
+    <string name="titleLocation">Location</string>
+</resources>

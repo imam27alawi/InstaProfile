@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="itemSearch">Search</string>
+    <string name="itemFavorite">Favorite</string>
+    <string name="itemPost">Post</string>
+    <string name="itemFollowers">Followers</string>
+    <string name="itemFollowing">Following</string>
+    <string name="add_favorite">Add Favorite</string>
+    <string name="insert_username">Insert Username</string>
+    <string name="titleUsername">username</string>
+    <string name="titleLocation">Location</string>
+</resources>
